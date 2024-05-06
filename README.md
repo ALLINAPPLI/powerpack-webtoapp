@@ -1,7 +1,5 @@
 # powerpack-webtoapp
 
-# powerpack-webtoapp
-
 ## 💻 Description
 PowerPack WebToApp est un plugin WordPress conçu pour étendre les fonctionnalités de PowerPack en permettant la manipulation du contenu pour un affichage à la fois sur les navigateurs web et les applications mobiles.
 

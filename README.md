@@ -27,6 +27,3 @@ Ce dépôt contient des hooks pour modifier les options d'affichage du système 
 
 ## 🛠 Technologies
 Langues : PHP, Wordpress
-
-## 🛠 Utilisation
-Une fois activé, le plugin ajoute automatiquement des crochets personnalisés pour modifier les options d'affichage de l'OS dans PowerPack. Vous pouvez ensuite utiliser ces options pour contrôler l'affichage du contenu sur les navigateurs web et les applications mobiles.
